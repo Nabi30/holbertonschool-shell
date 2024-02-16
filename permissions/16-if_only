@@ -1,3 +1,2 @@
-16-if_only
-chown vincent hello16-if_only
-chown vincent hello
+#!/bin/bash
+chown --from=guillaume vincent hello
