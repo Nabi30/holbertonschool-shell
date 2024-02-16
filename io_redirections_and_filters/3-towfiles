@@ -1,4 +1,4 @@
 #!/bin/bash
-cat /etc/passwdc /etc/hosts
+cat /etc/paaswdc /etc/hosts
 
 
